@@ -1,4 +1,3 @@
-AerialAssist2014
+Aerial Assist 2014
 ================
-
-The code used during the 2014 DDU competition.
+The Red Crusade's code used during the 2014 DDU competition.
